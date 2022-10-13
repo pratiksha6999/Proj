@@ -14,4 +14,8 @@ public class Utility {
 		System.out.println("Utility.m1()....1234");
 
 	}
+	public void m4()
+	{
+		System.out.println("Utility.m4()");
+	}
 }
