@@ -7,5 +7,6 @@ public class Testing {
 	public static void main(String[] args) {
 		Utility u=new Utility();
 		System.out.println(u.getDate());
+		System.out.println("abc");
 	}
 }
